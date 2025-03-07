@@ -8,7 +8,7 @@ image:
   repository: geetha270/gitops-eks
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13726882546"
+  tag: "13726905234"
 
 ingress:
   enabled: false
